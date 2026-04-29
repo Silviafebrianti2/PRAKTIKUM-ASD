@@ -10,7 +10,6 @@ public class LayananAkademikSIAKAD {
         AntrianLayanan26 antrian = new AntrianLayanan26(10);
 
         int pilihan;
-
         do {
             System.out.println("\n=== MENU ANTRIAN PERSETUJUAN KRS DPA ===");
             System.out.println("1. Tambah Antrian Mahasiswa");
